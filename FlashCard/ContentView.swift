@@ -42,7 +42,13 @@ struct ContentView: View {
                     }
                     .padding()
                 } else {
-                    if flashcardViewModel.currentQuestions.isEmpty {
+                    if flashcardViewModel.loadingNewQuestions {
+                        ProgressView("Yeni sorular geliyor...")
+                            .progressViewStyle(CircularProgressViewStyle())
+                            .padding()
+                            .transition(.opacity)
+                            .animation(.easeInOut(duration: 0.5))
+                    } else if flashcardViewModel.currentQuestions.isEmpty {
                         Text("Yükleniyor...")
                             .font(.title)
                             .padding()

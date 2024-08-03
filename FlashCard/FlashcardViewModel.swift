@@ -49,7 +49,7 @@ class FlashcardViewModel: ObservableObject {
         
         loadingNewQuestions = true
         
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) { // 0.5 saniye bekle
             var newQuestions = Array(self.allFlashcards.shuffled().prefix(10))
             
             if !self.wrongQuestions.isEmpty {

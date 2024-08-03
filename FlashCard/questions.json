@@ -76,7 +76,7 @@
     },
     {
         "question": "İstanbul'un eski adı nedir?",
-        "answer": "Bizans",
+        "answer": "Constantinople",
         "choices": ["Bizans", "Roma", "Constantinople"]
     },
     {
@@ -182,251 +182,26 @@
     {
         "question": "Mona Lisa tablosu hangi müzede sergilenir?",
         "answer": "Louvre Müzesi",
-        "choices": ["Louvre Müzesi", "British Museum", "Uffizi Galerisi"]
+        "choices": ["Louvre Müzesi", "Britanya Müzesi", "Metropolitan Müzesi"]
     },
     {
-        "question": "Dünyanın en büyük tatlı su gölü hangisidir?",
-        "answer": "Superior Gölü",
-        "choices": ["Superior Gölü", "Hazar Denizi", "Baykal Gölü"]
+        "question": "Birçok ülkede kullanılan para birimi Euro hangi kıtada kullanılır?",
+        "answer": "Avrupa",
+        "choices": ["Avrupa", "Asya", "Kuzey Amerika"]
     },
     {
-        "question": "Hangi element havadan daha hafif olduğu için balonlarda kullanılır?",
-        "answer": "Helyum",
-        "choices": ["Helyum", "Hidrojen", "Karbon"]
-    },
-    {
-        "question": "Hangi gezegen Güneş Sistemi'nde en hızlı dönen gezegendir?",
-        "answer": "Jüpiter",
-        "choices": ["Jüpiter", "Merkür", "Venüs"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en yüksek volkan bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Satürn"]
-    },
-    {
-        "question": "Hangi tarihsel figür 'Hannibal' olarak bilinir?",
-        "answer": "Kartaca'nın ünlü komutanı",
-        "choices": ["Kartaca'nın ünlü komutanı", "Roma'nın ünlü generalı", "Mısır'ın ünlü firavunu"]
-    },
-    {
-        "question": "Dünyanın en uzun duvarı hangisidir?",
-        "answer": "Büyük Çin Seddi",
-        "choices": ["Büyük Çin Seddi", "Hadrian Duvarı", "Berlin Duvarı"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en yüksek rüzgar hızı ölçülür?",
-        "answer": "Neptün",
-        "choices": ["Neptün", "Uranüs", "Venüs"]
-    },
-    {
-        "question": "Bir bilgisayarın işlemcisi ne iş yapar?",
-        "answer": "Verileri işler ve komutları yürütür",
-        "choices": ["Verileri işler ve komutları yürütür", "Sadece verileri depolar", "Sadece ekranı kontrol eder"]
-    },
-    {
-        "question": "Hangi gezegenin en yoğun atmosferi vardır?",
-        "answer": "Venüs",
-        "choices": ["Venüs", "Mars", "Jüpiter"]
-    },
-    {
-        "question": "Hangi gezegenin etrafında en belirgin halkalar bulunur?",
+        "question": "Hangi gezegen 'Yüzükler Kraliçesi' olarak bilinir?",
         "answer": "Satürn",
-        "choices": ["Satürn", "Uranüs", "Neptün"]
+        "choices": ["Satürn", "Neptün", "Uranüs"]
     },
     {
-        "question": "Hangi bilim dalı yıldızları ve gök cisimlerini inceler?",
-        "answer": "Astronomi",
-        "choices": ["Astronomi", "Astrofizik", "Meteoroloji"]
+        "question": "Hangi bilim adamı 'Principia Mathematica' adlı kitabı yazmıştır?",
+        "answer": "Isaac Newton",
+        "choices": ["Isaac Newton", "Gottfried Wilhelm Leibniz", "Galileo Galilei"]
     },
     {
-        "question": "Bir ülkede 'Cumhurbaşkanı' unvanı hangi yönetim biçiminde kullanılır?",
-        "answer": "Cumhuriyet",
-        "choices": ["Cumhuriyet", "Monarşi", "Feodalizm"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en düşük sıcaklıklar ölçülür?",
-        "answer": "Uranüs",
-        "choices": ["Uranüs", "Mars", "Satürn"]
-    },
-    {
-        "question": "Hangi gezegenin en büyük uydusu hangisidir?",
-        "answer": "Ganymede",
-        "choices": ["Ganymede", "Titan", "Callisto"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en büyük çöl bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Jüpiter"]
-    },
-    {
-        "question": "Bir yıl kaç hafta içerir?",
-        "answer": "52 hafta",
-        "choices": ["52 hafta", "48 hafta", "50 hafta"]
-    },
-    {
-        "question": "Hangi gezegenin en büyük ve en hızlı rüzgarları bulunur?",
-        "answer": "Neptün",
-        "choices": ["Neptün", "Venüs", "Uranüs"]
-    },
-    {
-        "question": "Hangi gezegen Güneş Sistemi'nde en küçük gezegendir?",
-        "answer": "Merkür",
-        "choices": ["Merkür", "Mars", "Venüs"]
-    },
-    {
-        "question": "Dünyanın en büyük tatlı su gölü olan Baykal Gölü hangi ülkede bulunur?",
-        "answer": "Rusya",
-        "choices": ["Rusya", "Meksika", "Kanada"]
-    },
-    {
-        "question": "Bir kilogram kaç gramdır?",
-        "answer": "1000 gram",
-        "choices": ["1000 gram", "500 gram", "2000 gram"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en yüksek volkan bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Satürn"]
-    },
-    {
-        "question": "Hangi ülkenin bayrağında yalnızca kırmızı ve beyaz renkler bulunur?",
-        "answer": "Japonya",
-        "choices": ["Japonya", "Kanada", "Almanya"]
-    },
-    {
-        "question": "Hangi gezegenin en büyük kutup buzulları bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Jüpiter"]
-    },
-    {
-        "question": "Hangi gezegenin atmosferi en yoğun ve en kalın olanıdır?",
-        "answer": "Venüs",
-        "choices": ["Venüs", "Neptün", "Uranüs"]
-    },
-    {
-        "question": "Bir kişinin yaşını belirleyen temel ölçü nedir?",
-        "answer": "Doğum tarihi",
-        "choices": ["Doğum tarihi", "Tartı", "Boy uzunluğu"]
-    },
-    {
-        "question": "Hangi gezegenin en uzun gününe sahip olduğu kabul edilir?",
-        "answer": "Venüs",
-        "choices": ["Venüs", "Mars", "Satürn"]
-    },
-    {
-        "question": "Hangi gezegenin en yüksek rüzgarları bulunur?",
-        "answer": "Neptün",
-        "choices": ["Neptün", "Venüs", "Uranüs"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en büyük çöl bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Jüpiter"]
-    },
-    {
-        "question": "Bir yıl kaç gündür?",
-        "answer": "365 gün",
-        "choices": ["365 gün", "360 gün", "366 gün"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en büyük volkan bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Satürn"]
-    },
-    {
-        "question": "Hangi gezegenin atmosferi en yoğun ve en kalın olanıdır?",
-        "answer": "Venüs",
-        "choices": ["Venüs", "Neptün", "Uranüs"]
-    },
-    {
-        "question": "Dünyanın en uzun nehir hangisidir?",
-        "answer": "Nil Nehri",
-        "choices": ["Nil Nehri", "Amazon Nehri", "Yangtze Nehri"]
-    },
-    {
-        "question": "Hangi gezegenin etrafında en belirgin halkalar bulunur?",
-        "answer": "Satürn",
-        "choices": ["Satürn", "Uranüs", "Neptün"]
-    },
-    {
-        "question": "Bir bilgisayarın işlemcisi ne iş yapar?",
-        "answer": "Verileri işler ve komutları yürütür",
-        "choices": ["Verileri işler ve komutları yürütür", "Sadece verileri depolar", "Sadece ekranı kontrol eder"]
-    },
-    {
-        "question": "Hangi gezegenin en küçük gün uzunluğuna sahip olduğu kabul edilir?",
-        "answer": "Jüpiter",
-        "choices": ["Jüpiter", "Venüs", "Mars"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en yüksek volkan bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Satürn"]
-    },
-    {
-        "question": "Bir yıl kaç hafta içerir?",
-        "answer": "52 hafta",
-        "choices": ["52 hafta", "48 hafta", "50 hafta"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en düşük sıcaklıklar ölçülür?",
-        "answer": "Uranüs",
-        "choices": ["Uranüs", "Mars", "Satürn"]
-    },
-    {
-        "question": "Hangi gezegen Güneş Sistemi'nde en küçük gezegendir?",
-        "answer": "Merkür",
-        "choices": ["Merkür", "Mars", "Venüs"]
-    },
-    {
-        "question": "Dünyanın en büyük tatlı su gölü olan Baykal Gölü hangi ülkede bulunur?",
-        "answer": "Rusya",
-        "choices": ["Rusya", "Meksika", "Kanada"]
-    },
-    {
-        "question": "Hangi gezegenin en büyük uydusu hangisidir?",
-        "answer": "Ganymede (Jüpiter'in uydusu)",
-        "choices": ["Ganymede", "Titan", "Callisto"]
-    },
-    {
-        "question": "Bir kilogram kaç gramdır?",
-        "answer": "1000 gram",
-        "choices": ["1000 gram", "500 gram", "2000 gram"]
-    },
-    {
-        "question": "Hangi gezegenin en yüksek rüzgarları bulunur?",
-        "answer": "Neptün",
-        "choices": ["Neptün", "Venüs", "Uranüs"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en büyük çöl bulunur?",
-        "answer": "Mars",
-        "choices": ["Mars", "Venüs", "Jüpiter"]
-    },
-    {
-        "question": "Bir yıl kaç hafta içerir?",
-        "answer": "52 hafta",
-        "choices": ["52 hafta", "48 hafta", "50 hafta"]
-    },
-    {
-        "question": "Hangi gezegenin yüzeyinde en düşük sıcaklıklar ölçülür?",
-        "answer": "Uranüs",
-        "choices": ["Uranüs", "Mars", "Satürn"]
-    },
-    {
-        "question": "Hangi gezegen Güneş Sistemi'nde en küçük gezegendir?",
-        "answer": "Merkür",
-        "choices": ["Merkür", "Mars", "Venüs"]
-    },
-    {
-        "question": "Dünyanın en büyük tatlı su gölü olan Baykal Gölü hangi ülkede bulunur?",
-        "answer": "Rusya",
-        "choices": ["Rusya", "Meksika", "Kanada"]
-    },
-    {
-        "question": "Hangi gezegenin en büyük uydusu hangisidir?",
-        "answer": "Ganymede (Jüpiter'in uydusu)",
-        "choices": ["Ganymede", "Titan", "Callisto"]
+        "question": "Buzul çağı ne zaman başladı?",
+        "answer": "Yaklaşık 2.4 milyon yıl önce",
+        "choices": ["Yaklaşık 2.4 milyon yıl önce", "Yaklaşık 10 bin yıl önce", "Yaklaşık 500 bin yıl önce"]
     }
 ]

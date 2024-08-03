@@ -67,7 +67,7 @@ class FlashcardViewModel: ObservableObject {
     
     func checkAnswer(_ choice: String, for flashcard: Flashcard) {
         let isCorrect = choice == flashcard.answer
-        resultMessage = isCorrect ? "Doğru!" : "Yanlış, bir sonraki soruya geçiliyor..."
+        resultMessage = isCorrect ? "Doğru!" : "Yanlış"
         showingAnswer = true
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {

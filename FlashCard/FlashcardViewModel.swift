@@ -108,4 +108,10 @@ class FlashcardViewModel: ObservableObject {
         }
         loadNewQuestions()
     }
+
+    // Kalpleri yenileme fonksiyonu
+    func restoreHearts() {
+        heartsRemaining = 5
+        gameOver = false // Oyunu devam ettir
+    }
 }
